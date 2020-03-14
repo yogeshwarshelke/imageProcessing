@@ -1,0 +1,23 @@
+1:ImageDetection.py
+	Image Detect and Stored in the file.
+
+2:datasetCreator.py
+	Stored the multiple faces in dataset & also store id,name etc into sqlite3 database.
+
+3:facesTraining.py
+	LBPH Algorithm training model on dataset.
+
+4:datasetDetector.py
+	Compare the faces known or unknown
+
+5:facepresentornot.py
+	Check face known or unknown in dataset
+
+6:CountFace.py
+	Count the no of faces in image or video
+
+7:facesTraining.py
+	training dataset model
+
+8:faceDetectionVideo1.py
+	Face detect in video or image and store into file
